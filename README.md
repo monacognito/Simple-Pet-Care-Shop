@@ -7,7 +7,7 @@ Steps to install:
 3. Buka http://localhost/phpmyadmin/ 
 4. Import main file ke db
 5. Extract folder source code ke C:\xampp\htdocs
-6. Buka petstore di http://localhost/Simple-Pet-Care-Shop
+6. Buka petstore di http://localhost/petcare
 
 About App:
 1. Siapkan setup .
