@@ -81,14 +81,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
   <form action="login.php" method ="post">
-    <h2>admin login</h2>
+    <h2>Admin Login</h2>
     <?php echo $error; ?>
     <br>
-    <label>username (admin)</label>
+    <label>Username:</label>
     <input type="text" name="username" placeholder="admin"><br>
     <label>password (admin)</label>
-    <input type="password" name="password" placeholder="*****"><br> 
-    <input type="submit" value="login">
+    <input type="password" name="password" placeholder="pass: admin"><br> 
+    <input type="submit" value="Login">
   </form>
 </body>
 </html>
