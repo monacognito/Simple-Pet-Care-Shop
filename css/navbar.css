@@ -43,7 +43,7 @@
 }
 
 .navbar-item:hover {
-  color: blueviolet;
+  color: rgb(183, 106, 255);
   cursor: pointer;
 }
 
